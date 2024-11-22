@@ -14,7 +14,9 @@ const Footer = () => {
             </a> */}
             &copy; 2024. All rights reserved.
             <br></br>
-            Shoppers Stop (Pavilion Mall) in Fountain Chowk, Ludhiana. Shoppers Stop, Pavillion Mall, Ludhiana.
+            Shoppers Stop (Pavilion Mall)
+            ALPHA ONE MALL, MBM FARM, G.T. ROAD, AMRITSAR, AMRITSAR,
+PUNJAB, 143010 
             <br></br>
             +91 9463061160
           </div>
