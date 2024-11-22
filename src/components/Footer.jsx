@@ -18,7 +18,7 @@ const Footer = () => {
             ALPHA ONE MALL, MBM FARM, G.T. ROAD, AMRITSAR, AMRITSAR,
 PUNJAB, 143010 
             <br></br>
-            +91 9463061160
+            +91 9463061195
           </div>
         </div>
       </footer>
